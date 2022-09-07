@@ -1,2 +1,5 @@
-# TalentCampEjercicio2
- Ejercicio 2 Spring Core: ej02-spring-core-exportador. Configurar la app para que la config de Spring solo use annotations.
+# Segundo ejercicio del Java Talent Camp Intermedio
+
+Se solicita: Configurar la APP para que la configuración de Spring solo use annotations.
+
+Información util: https://www.youtube.com/watch?v=kFIvslQQZ9k&list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm&ab_channel=pildorasinformaticas
